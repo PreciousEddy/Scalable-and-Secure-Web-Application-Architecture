@@ -51,6 +51,6 @@ You must set up your AWS credentials. You can do this by setting up the followin
 export AWS_ACCESS_KEY_ID=your_access_key
 export AWS_SECRET_ACCESS_KEY=your_secret_access_key
 export AWS_REGION=us-west-2
-``````
+
 
 
