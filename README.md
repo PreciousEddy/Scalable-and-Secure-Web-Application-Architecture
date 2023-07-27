@@ -21,7 +21,7 @@
 
 - A listener that routes traffic from the load balancer to the target group.
 
--An RDS instance that stores the data for the web application.
+- An RDS instance that stores the data for the web application.
 
 **Instructions**:
 To create the web application architecture, you can follow these steps:
