@@ -1,6 +1,5 @@
 # Scalable and Secure Web Application
-*Scalable and Secure Web Application Architecture
-This repository contains the Terraform scripts that you need to create a scalable and secure web application architecture on AWS.*
+*This repository contains the Terraform scripts that you need to create a scalable and secure web application architecture on AWS.*
 
 ---
 
